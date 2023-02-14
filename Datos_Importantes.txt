@@ -1,0 +1,30 @@
+* Ejemplo de ruta a digitar en el HMI: D:\Equipo\Proyectos\Sistema_De_Alarmas_Con_HMI\Base_De_Datos.txt
+
+* Numero maximo de alarmas: 29
+
+* Tiempo de alarma: 10 segundos
+
+* Salida tipo rele: Maximo 250v y 10A
+
+
+* Tiempo de carga de alarmas a Arduino: 5 segundos por cada una.
+
+* Cada vez que se añade o se borra una alarma se carga toda la tabla nuevamente a Arduino.
+
+* De entrada en el bloc de notas: Base_De_Datos.txt debe existir al menos dos alarmas seteadas.
+
+
+* Antes de abrir el HMI debe estar conectado el Arduino.
+
+* Las alarmas ingresadas se activaran unicamente de Lunes a Viernes.
+
+
+* En el caso de querer comprobar si se pasaron los datos entre el HMI y el Arduino, se debe conectar un modulo I2C con un display LCD 16X2 
+  al arduino, utilizando los terminales SDA y SCL y se mostraran automaticamente las alarmas registradas en el Arduino en el formato: 
+  H:"HORA" M:"Minuto" A:"Sirena" 
+  Todo este sistema ya se encuentra programado, de tal forma solo se requiere conectar los elementos.
+
+
+* La pila del reloj externo no debe ser retirada del modulo, caso contrario toca setear nuevamente la hora.
+
+* La pila colocada en el reloj externo es nueva, de tal forma el tiempo de vida util aproximado, va entre los 2 y 4 años.

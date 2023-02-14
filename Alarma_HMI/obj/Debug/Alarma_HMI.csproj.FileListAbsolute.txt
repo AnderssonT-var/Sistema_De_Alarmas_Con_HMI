@@ -1,0 +1,30 @@
+D:\J. Fernando\Por arreglar\Proyecto_Dos_Alarmas\Alarma_HMI\bin\Debug\Alarma_HMI.exe.config
+D:\J. Fernando\Por arreglar\Proyecto_Dos_Alarmas\Alarma_HMI\bin\Debug\Alarma_HMI.exe
+D:\J. Fernando\Por arreglar\Proyecto_Dos_Alarmas\Alarma_HMI\bin\Debug\Alarma_HMI.pdb
+D:\J. Fernando\Por arreglar\Proyecto_Dos_Alarmas\Alarma_HMI\obj\Debug\Alarma_HMI.csproj.AssemblyReference.cache
+D:\J. Fernando\Por arreglar\Proyecto_Dos_Alarmas\Alarma_HMI\obj\Debug\Alarma_HMI.Form1.resources
+D:\J. Fernando\Por arreglar\Proyecto_Dos_Alarmas\Alarma_HMI\obj\Debug\Alarma_HMI.Properties.Resources.resources
+D:\J. Fernando\Por arreglar\Proyecto_Dos_Alarmas\Alarma_HMI\obj\Debug\Alarma_HMI.csproj.GenerateResource.cache
+D:\J. Fernando\Por arreglar\Proyecto_Dos_Alarmas\Alarma_HMI\obj\Debug\Alarma_HMI.csproj.CoreCompileInputs.cache
+D:\J. Fernando\Por arreglar\Proyecto_Dos_Alarmas\Alarma_HMI\obj\Debug\Alarma_HMI.exe
+D:\J. Fernando\Por arreglar\Proyecto_Dos_Alarmas\Alarma_HMI\obj\Debug\Alarma_HMI.pdb
+D:\J. Fernando\Por arreglar\Proyecto_Dos_Alarmas\Alarma_HMI - copia\bin\Debug\Alarma_HMI.exe.config
+D:\J. Fernando\Por arreglar\Proyecto_Dos_Alarmas\Alarma_HMI - copia\bin\Debug\Alarma_HMI.exe
+D:\J. Fernando\Por arreglar\Proyecto_Dos_Alarmas\Alarma_HMI - copia\bin\Debug\Alarma_HMI.pdb
+D:\J. Fernando\Por arreglar\Proyecto_Dos_Alarmas\Alarma_HMI - copia\obj\Debug\Alarma_HMI.csproj.AssemblyReference.cache
+D:\J. Fernando\Por arreglar\Proyecto_Dos_Alarmas\Alarma_HMI - copia\obj\Debug\Alarma_HMI.Form1.resources
+D:\J. Fernando\Por arreglar\Proyecto_Dos_Alarmas\Alarma_HMI - copia\obj\Debug\Alarma_HMI.Properties.Resources.resources
+D:\J. Fernando\Por arreglar\Proyecto_Dos_Alarmas\Alarma_HMI - copia\obj\Debug\Alarma_HMI.csproj.GenerateResource.cache
+D:\J. Fernando\Por arreglar\Proyecto_Dos_Alarmas\Alarma_HMI - copia\obj\Debug\Alarma_HMI.csproj.CoreCompileInputs.cache
+D:\J. Fernando\Por arreglar\Proyecto_Dos_Alarmas\Alarma_HMI - copia\obj\Debug\Alarma_HMI.exe
+D:\J. Fernando\Por arreglar\Proyecto_Dos_Alarmas\Alarma_HMI - copia\obj\Debug\Alarma_HMI.pdb
+D:\J. Fernando\Por arreglar\Sistema_De_Alarmas_Con_HMI\Alarma_HMI\bin\Debug\Alarma_HMI.exe.config
+D:\J. Fernando\Por arreglar\Sistema_De_Alarmas_Con_HMI\Alarma_HMI\bin\Debug\Alarma_HMI.exe
+D:\J. Fernando\Por arreglar\Sistema_De_Alarmas_Con_HMI\Alarma_HMI\bin\Debug\Alarma_HMI.pdb
+D:\J. Fernando\Por arreglar\Sistema_De_Alarmas_Con_HMI\Alarma_HMI\obj\Debug\Alarma_HMI.csproj.AssemblyReference.cache
+D:\J. Fernando\Por arreglar\Sistema_De_Alarmas_Con_HMI\Alarma_HMI\obj\Debug\Alarma_HMI.Form1.resources
+D:\J. Fernando\Por arreglar\Sistema_De_Alarmas_Con_HMI\Alarma_HMI\obj\Debug\Alarma_HMI.Properties.Resources.resources
+D:\J. Fernando\Por arreglar\Sistema_De_Alarmas_Con_HMI\Alarma_HMI\obj\Debug\Alarma_HMI.csproj.GenerateResource.cache
+D:\J. Fernando\Por arreglar\Sistema_De_Alarmas_Con_HMI\Alarma_HMI\obj\Debug\Alarma_HMI.csproj.CoreCompileInputs.cache
+D:\J. Fernando\Por arreglar\Sistema_De_Alarmas_Con_HMI\Alarma_HMI\obj\Debug\Alarma_HMI.exe
+D:\J. Fernando\Por arreglar\Sistema_De_Alarmas_Con_HMI\Alarma_HMI\obj\Debug\Alarma_HMI.pdb
