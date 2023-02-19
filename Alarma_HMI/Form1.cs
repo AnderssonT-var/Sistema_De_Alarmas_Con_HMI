@@ -232,6 +232,18 @@ namespace Alarma_HMI
                 MessageBox.Show(error.Message);
             }
         }
+
+        private void pictureBox1_DoubleClick(object sender, EventArgs e)
+        {
+            OpenFileDialog fileImg = new OpenFileDialog();
+            fileImg.Filter = "(*.png)|*.png|(*.jpg)|*.jpg";
+
+            if (fileImg.ShowDialog() ==  DialogResult.OK)
+            {
+                pictureBox1.Image = Image.FromFile(fileImg.FileName);
+            }
+            Properties.Settings.Default.Save();
+        }
     }
 }
 
